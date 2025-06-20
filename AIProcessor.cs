@@ -1,9 +1,4 @@
-﻿using OpenAI;
-using OpenAI.Chat;
-using OpenAI.Models;
-using System.Data;
-using System.Reflection;
-using System.Threading.Tasks;
+﻿using OpenAI.Chat;
 
 namespace AI_Test
 {
